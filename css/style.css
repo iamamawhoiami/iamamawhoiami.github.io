@@ -320,9 +320,6 @@ textarea {
     height: 225px;
     text-align: left;
   }
-  .btn:hover {
-    display: none;
-  }
 }
 
 @media (max-width: 1208px) {
