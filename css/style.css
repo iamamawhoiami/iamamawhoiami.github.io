@@ -307,7 +307,8 @@ textarea {
 .custom-toggler.navbar-toggler {
   border-color: rgb(247, 247, 247);
 }
-.custom-toggler .navbar-toggler-icon {
+.contacts {
+  color: white;
 }
 
 @media (max-width: 999px) {
