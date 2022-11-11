@@ -387,6 +387,11 @@ textarea {
     font-size: 24px;
   }
 }
+@media (max-width: 610px) {
+  .mobile-pd {
+    margin-top: 48px;
+  }
+}
 @media (max-width: 548px) {
 }
 
