@@ -15,7 +15,7 @@ a:active, /* активная/посещенная ссылка */
 a:hover,  /* при наведении */
 a {
   text-decoration: none;
-  color: rgb(15, 15, 15);
+  color: #fff;
 }
 
 body {
@@ -340,9 +340,7 @@ textarea {
     height: 225px;
     text-align: left;
   }
-  .btn:hover {
-    display: none;
-  }
+  
 }
 
 @media (max-width: 1098px) {
