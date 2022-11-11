@@ -320,11 +320,28 @@ textarea {
     height: 225px;
     text-align: left;
   }
+  .btn:hover {
+    display: none;
+  }
 }
 
 @media (max-width: 1208px) {
   span {
     display: block;
+  }
+}
+
+@media (max-width: 999px) {
+  .navbar-collapse {
+    display: block;
+    padding: 20px;
+    transition: all 0.2s ase;
+    background-color: rgba(33, 37, 41, 0.9);
+    height: 225px;
+    text-align: left;
+  }
+  .btn:hover {
+    display: none;
   }
 }
 
